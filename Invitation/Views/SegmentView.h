@@ -1,15 +1,13 @@
 //
-//  ViewController.h
+//  SegmentView.h
 //  Invitation
 //
-//  Created by 大 欢 on 14/11/19.
+//  Created by dahuan on 14/11/20.
 //  Copyright (c) 2014年 DongShenNianYi. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface SegmentView : UIView
 
 @end
-
